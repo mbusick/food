@@ -14,7 +14,7 @@ Search in the top searchBar for a food cadigory to see local food options!
 
 ## Architecture 
 
-A fun app that uses React Native alone with a Yelp API
+A fun app that uses React Native along with a Yelp API
 
 ## About
 
